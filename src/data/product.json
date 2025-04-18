@@ -1,0 +1,867 @@
+[
+  {
+    "itemCode": 1,
+    "catId": 1,
+    "name": "CityPos",
+    "price": 979000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 10,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 2,
+    "catId": 1,
+    "name": "MetroPos J1900 609",
+    "price": 1452000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 3,
+    "catId": 2,
+    "name": "MetroPos G1900 605",
+    "price": 1452000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Touch Kacc MetroPos G1900 605"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "CPU                           Intel(R) Celeron(R) CPU J1900  1.99Ghz"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver MetroPos G1900 605"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 4,
+    "catId": 2,
+    "name": "CityPos Dual i3",
+    "price": 1615460,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white",
+      "gray-200"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 5,
+    "catId": 1,
+    "name": "MetroPos i5 J7",
+    "price": 1859000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 6,
+    "catId": 3,
+    "name": "SkyPos-i5 Нэг дэлгэцтэй",
+    "price": 1903000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },{
+    "itemCode": 7,
+    "catId": 3,
+    "name": "CityPos",
+    "price": 979000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 8,
+    "catId": 2,
+    "name": "MetroPos J1900 609",
+    "price": 1452000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 9,
+    "catId": 1,
+    "name": "MetroPos G1900 605",
+    "price": 1452000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Touch Kacc MetroPos G1900 605"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "CPU                           Intel(R) Celeron(R) CPU J1900  1.99Ghz"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver MetroPos G1900 605"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 10,
+    "catId": 3,
+    "name": "CityPos Dual i3",
+    "price": 1615460,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white",
+      "gray-200"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 11,
+    "catId": 1,
+    "name": "MetroPos i5 J7",
+    "price": 1859000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 12,
+    "catId": 2,
+    "name": "SkyPos-i5 Нэг дэлгэцтэй",
+    "price": 1903000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },{
+    "itemCode": 13,
+    "catId": 3,
+    "name": "CityPos",
+    "price": 979000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 14,
+    "catId": 1,
+    "name": "MetroPos J1900 609",
+    "price": 1452000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 15,
+    "catId": 1,
+    "name": "MetroPos G1900 605",
+    "price": 1452000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Touch Kacc MetroPos G1900 605"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "CPU                           Intel(R) Celeron(R) CPU J1900  1.99Ghz"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver MetroPos G1900 605"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 16,
+    "catId": 3,
+    "name": "CityPos Dual i3",
+    "price": 1615460,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white",
+      "gray-200"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 17,
+    "catId": 3,
+    "name": "MetroPos i5 J7",
+    "price": 1859000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  },
+  {
+    "itemCode": 18,
+    "catId": 3,
+    "name": "SkyPos-i5 Нэг дэлгэцтэй",
+    "price": 1903000,
+    "imgs": [
+      "http://kacc.mn/static/uploads/product/CityPosi3-5th_Dual.png",
+      "http://kacc.mn/static/uploads/product/MetroPos_i5_607.jpg.png",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg",
+      "http://kacc.mn/static/uploads/product/SkyPos-i5-3.jpg"
+    ],
+    "qty": 1,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "tabInfo": [
+      {
+        "title": "Танилцуулга",
+        "content": "Kacc"
+      },
+      {
+        "title": "Үзүүлэлт",
+        "content": "Хэвлэх технологи Лазер<br></br> Хэвлэх хурд 120mm-sec, Автомат тасдагчтай\n Холболт USB\n Цаасны өргөн 57mm\n Цаас Дан\n Тэжээл DC12V, 2.6A"
+      },
+      {
+        "title": "Татах",
+        "content": "Driver"
+      }
+    ],
+    "drivers": [
+      {
+        "dId": 1,
+        "dName": "1",
+        "dUrl": "1"
+      },
+      {
+        "dId": 2,
+        "dName": "2",
+        "dUrl": "2"
+      },
+      {
+        "dId": 3,
+        "dName": "3",
+        "dUrl": "3"
+      }
+    ]
+  }
+]

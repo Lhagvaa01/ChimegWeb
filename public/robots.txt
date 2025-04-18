@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+Sitemap: http://202.131.237.185:3035/sitemap.xml
+Product: http://202.131.237.185:3035/product.json
+

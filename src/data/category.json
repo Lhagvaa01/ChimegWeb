@@ -1,0 +1,165 @@
+[
+  {
+    "catId": 1,
+    "catName": "Кассын машин",
+    "catImg": "http://kacc.mn/static/uploads/category/Touch1.jpg",
+    "catDtl": [
+      {
+        "1": "Дэлгүүрийн касс",
+        "2": "Рестораны касс",
+        "3": "Android касс",
+        "4": "Tablet"
+      }
+    ]
+  },
+  {
+    "catId": 2,
+    "catName": "Баар код уншигч",
+    "catImg": "http://kacc.mn/static/uploads/category/images.jpg",
+    "catDtl": [
+      {
+        "1": "Лазер уншигч",
+        "2": "Утасгүй/Wireless",
+        "3": "2D/QR сканнер",
+        "4": "Mobile Сканнер-Bluetooth"
+      }
+    ]
+  },
+  {
+    "catId": 3,
+    "catName": "Талон хэвлэгч",
+    "catImg": "http://kacc.mn/static/uploads/category/t.jpg",
+    "catDtl": [
+      {
+        "1": "Дан хэвлэгч-57мм",
+        "2": "Давхар хэвлэгч-75мм",
+        "3": "Дан хэвлэгч-80мм",
+        "4": "Гал тогооны принтер/Kitchen",
+        "5": "Баар код, Шошго хэвлэгч",
+        "6": "Цэгэн/Matrix/Passbook принтер",
+        "7": "Sewoo принтер Солонгос",
+        "8": "Mobile принтер-Bluetooth"
+      }
+    ]
+  },
+  {
+    "catId": 4,
+    "catName": "Картын хэрэгсэл",
+    "catImg": "http://kacc.mn/static/uploads/category/p330id_big.jpg",
+    "catDtl": [
+      {
+        "1": "Карт уншигч",
+        "2": "Пинпад",
+        "3": "Картын бэлдэц",
+        "4": "Карт хэвлэгчийн хор",
+        "5": "Карт хэвлэгчийн Цэвэрлэгч",
+        "6": "Карт хэвлэгч принтер"
+      }
+    ]
+  },
+  {
+    "catId": 5,
+    "catName": "Цаас",
+    "catImg": "http://kacc.mn/static/uploads/category/Tsaas.png",
+    "catDtl": [
+      {
+        "1": "Посын цаас",
+        "2": "Шишгоны цаас"
+      }
+    ]
+  },
+  {
+    "catId": 6,
+    "catName": "Тээш",
+    "catImg": "http://kacc.mn/static/uploads/category/locker130.jpg",
+    "catDtl": [
+      {
+        "1": "Киоск терминал",
+        "2": "Кассын ширээ"
+      }
+    ]
+  },
+  {
+    "catId": 7,
+    "catName": "Хэрэгсэл",
+    "catImg": "http://kacc.mn/static/uploads/category/passwordKeyboard.jpg",
+    "catDtl": [
+      {
+        "1": "Кассын лент хор, цаас",
+        "2": "Электрон жин",
+        "3": "Поссын гар",
+        "4": "Тооллогын төхөөрөмж",
+        "5": "Барааны үнэ харагч",
+        "6": "Мөнгө тоологч",
+        "7": "Мөнгөний хайрцаг",
+        "8": "Дэлгэц",
+        "9": "Сэлбэг",
+        "10": "Карт хэвлэлт"
+      }
+    ]
+  },
+  {
+    "catId": 8,
+    "catName": "Дохиололын антен",
+    "catImg": "http://kacc.mn/static/uploads/category/Haalga_1.jpg",
+    "catDtl": [
+      {
+        "1": "Дохиололын хаалга RF",
+        "2": "Дохиололын хаалга AM",
+        "3": "RF Tag дагалдах",
+        "4": "AM Tag дагалдах",
+        "5": "EM-Book Антен"
+      }
+    ]
+  },
+  {
+    "catId": 9,
+    "catName": "Киоск Терминал",
+    "catImg": "http://kacc.mn/static/uploads/category/Koisk1.jpg",
+    "catDtl": [
+      {
+        "1": "Киоск Терминал"
+      }
+    ]
+  },
+  {
+    "catId": 10,
+    "catName": "Кассын ширээ",
+    "catImg": "http://kacc.mn/static/uploads/category/ks-0105sadsa.jpg",
+    "catDtl": [
+      {
+        "1": "Кассын ширээ"
+      }
+    ]
+  },
+  {
+    "catId": 11,
+    "catName": "Электрон жин",
+    "catImg": "http://kacc.mn/static/uploads/category/barcodescale.jpg",
+    "catDtl": [
+      {
+        "1": "Электрон жин"
+      }
+    ]
+  },
+  {
+    "catId": 12,
+    "catName": "Мөнгө тоологч",
+    "catImg": "http://kacc.mn/static/uploads/category/Bill-Counter-5200.jpg",
+    "catDtl": [
+      {
+        "1": "Мөнгө тоологч"
+      }
+    ]
+  },
+  {
+    "catId": 13,
+    "catName": "Сэлбэг",
+    "catImg": "http://kacc.mn/static/uploads/category/19026.jpg",
+    "catDtl": [
+      {
+        "1": "Сэлбэг"
+      }
+    ]
+  }
+]

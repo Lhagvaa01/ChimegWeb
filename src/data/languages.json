@@ -1,0 +1,5 @@
+[
+    { "id": 1, "code": "mn", "label": "Mongolia", "flag": "mn" },
+    { "id": 2, "code": "en", "label": "English", "flag": "us" },
+    { "id": 3, "code": "ru", "label": "Russia", "flag": "ru" }
+]

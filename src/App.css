@@ -1,0 +1,34 @@
+@keyframes fall {
+  0% {
+    transform: translateY(-100px); /* Дэлгэцийн дээд хэсгээс эхлэх */
+  }
+  100% {
+    transform: translateY(100vh); /* Дэлгэцийн доод хэсэгт хүрэх */
+  }
+  3% {
+    transform: translateX(1vh); /* Хажуугийн хөдөлгөөн эхлэх байрлал */
+  }
+  40% {
+    transform: translateX(-100vh); /* Хажуу тийш бага зэрэг хөдлөх */
+  }
+  70% {
+    transform: translateX(-20vh); /* Хажуу тийш бага зэрэг хөдлөх */
+  }
+}
+
+@keyframes sway {
+  0% {
+    transform: translateX(0); /* Хажуугийн хөдөлгөөн эхлэх байрлал */
+  }
+  50% {
+    transform: translateX(20px); /* Хажуу тийш бага зэрэг хөдлөх */
+  }
+  100% {
+    transform: translateX(0); /* Эхлэх байрлалд буцах */
+  }
+}
+
+.snowfall-container .snowflake {
+  position: absolute;
+  animation: fall 50s linear infinite, sway 5s ease-in-out infinite; /* Доошоо буух ба хажуу тийш хөдлөх */
+}

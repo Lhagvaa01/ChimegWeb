@@ -1,0 +1,12 @@
+@media print {
+  .print-scale {
+    transform: scale(0.1); /* Set the desired maximum scale value */
+    transform-origin: top left;
+  }
+  @page {
+    size: A4;
+    margin: 5mm;
+    transform: scale(0.1); /* Set the desired minimum scale value */
+    transform-origin: top left;
+  }
+}
