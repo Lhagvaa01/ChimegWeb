@@ -50,7 +50,7 @@ const UsersOrder = lazy(() => import("./Pages/UsersOrder"));
 export const Context = React.createContext();
 
 const apiClient = axios.create({
-  baseURL: `http://${APIURL}/`,
+  baseURL: `https://${APIURL}/`,
   headers: {
     Authorization: "token 218d68b6dfe280a288a396352f7d720a18a00997",
   },
@@ -266,9 +266,9 @@ function App() {
         <meta property="og:description" content="Чимэг - Алт - Монет" />
         <meta
           property="og:image"
-          content="http://202.131.237.185:3030/media/Downloads/kacc.jpg"
+          content="https://api.chimeg.mn/media/Downloads/kacc.jpg"
         />
-        <meta property="og:url" content="http://202.131.237.185" />
+        <meta property="og:url" content="https://chimeg.mn" />
         <meta name="twitter:card" content="summary_large_image" />
       </Helmet>
       <Context.Provider value={[dBCompany, dBproduct, dBgroup, dBDiscount]}>

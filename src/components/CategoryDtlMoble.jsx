@@ -18,7 +18,7 @@ const CategoryDtlMobile = ({ dBgroup }) => {
 
     try {
       const response = await axiosInstance.get(
-        "http://202.131.237.185:3030/get_GroupHDR/"
+        "https://api.chimeg.mn/get_GroupHDR/"
       );
       setPosts(response.data.dtl);
     } catch (error) {

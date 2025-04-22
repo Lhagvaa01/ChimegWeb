@@ -4,7 +4,7 @@ import Cover from "../images/kacc.jpg";
 const About = () => {
   return (
     <div className="flex h-full">
-      <div className=" w-full h-full pt-24 md:pt-24 ">
+      {/* <div className=" w-full h-full pt-24 md:pt-24 ">
         <img
           alt=""
           loading="lazy"
@@ -18,7 +18,7 @@ const About = () => {
             БИДНИЙ ТУХАЙ
           </div>
           <div className="flex justify-center">
-            <div className="w-16 mt-5 border-b border-green-"></div>
+            <div className="w-16 mt-5 border-b border-green-800"></div>
           </div>
           <div className="flex text-justify md:pt-10">
             Манай компани нь 2008 онд үүсгэн байгуулагдсан бөгөөд Кассын тоног
@@ -70,7 +70,7 @@ const About = () => {
             </ul>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

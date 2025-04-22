@@ -72,12 +72,10 @@ const Bank = ({ products, tot, dBproduct, onProductClear }) => {
                   backgroundColor: "#F4F6FA",
                 }}
               >
-                <p className="text-txt-color">Банкны нэр: Голомт Банк</p>
-                <p className="text-txt-color">Хүлээн авагч: КАСС МОЛЛ ХХК</p>
+                <p className="text-txt-color">Банкны нэр: </p>
+                <p className="text-txt-color">Хүлээн авагч: </p>
                 {/* <p className="text-txt-color">Дансны дугаар: 340 517 21 95</p> */}
-                <p className="text-txt-color">
-                  Дансны дугаар IBAN: MN75 0015 00 3405172195
-                </p>
+                <p className="text-txt-color">Дансны дугаар IBAN:</p>
                 <div className="flex justify-center text-txt-color">
                   <p>Шилжүүлэх дүн: </p>
                   <p className="text-txt-color">

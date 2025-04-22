@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const APIURL2 = 'localhost:8000';
-let APIURL = "202.131.237.185:3030";
+let APIURL = "api.chimeg.mn";
 // let APIURL = "127.0.0.1:8000";
 
 const token = "token 218d68b6dfe280a288a396352f7d720a18a00997"

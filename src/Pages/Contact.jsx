@@ -21,9 +21,9 @@ const Contact = () => {
                   Холбоо барих:
                 </span>
               </div>
-              <div>Утас: 7766-9002</div>
+              <div>Утас: 99980680</div>
               <div>Мэйл хаяг: sales@chimeg.mn</div>
-              <div>Facebook: chimeg.mn</div>
+              <div>Facebook:alt monet chimeg</div>
             </div>
             <div className="w-full">
               <div className="flex text-xl mb-3 items-center justify-start">
@@ -32,9 +32,7 @@ const Contact = () => {
                   Цагийн хуваарь:
                 </span>
               </div>
-              <div>Даваа - Баасан - /09:00 - 18:00/</div>
-              <div>Бямба - /10:00 - 17:00/</div>
-              <div>Ням - /Амарна/</div>
+              <div>Өдөр бүр</div>
             </div>
           </div>
           <div className="md:h-96 md:mt-6 md:border-l md:border-green-800"></div>
@@ -45,8 +43,7 @@ const Contact = () => {
                 Хаяг:{" "}
               </div>
               <span className="inline-block py-1 px-2 pb-2 md:text-xl text-sm ">
-                Улаанбаатар Бгд 1-р хороо төмөр зам Богд ар хороолол тавин ус
-                эмийн сангийн замын эсрэг талд
+                Улаанбаатар Бгд
               </span>
             </div>
             <div>

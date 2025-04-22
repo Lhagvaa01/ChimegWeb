@@ -48,7 +48,7 @@ const Download = ({ dBproduct, dBgroup }) => {
 
   const getDownload = (pk) => {
     axios
-      .get(`https://${APIURL}/get_ProductDownloads/${pk}/`, {
+      .get(`http://${APIURL}/get_ProductDownloads/${pk}/`, {
         headers: {
           Authorization: "token b84cf4f51d8a5ad606ece08a8b2d72bdb8f3c1db",
         },

@@ -20,7 +20,7 @@ const PayCheck = ({ TCOrderNumber }) => {
 
     try {
       const response = await axiosInstance.get(
-        `https://${APIURL}/post_UserHistory/${orderNum}/1859000/`
+        `http://${APIURL}/post_UserHistory/${orderNum}/1859000/`
       );
       setRes(response.data.dtl);
       // console.log(response.data.dtl);

@@ -89,9 +89,8 @@ const Footer = () => {
         <div className="flex w-full flex-col items-center justify-center border-t border-green-800 py-4 md:flex-row md:justify-between">
           <div className="flex w-full md:justify-between mr-5">
             <p className="mb-4 text-center font-normal text-blue-gray-900 md:mb-0">
-              &copy; {currentYear}{" "}
-              <a href="http://202.131.237.185:3030/">Chimeg.mn</a>. Бүх эрх
-              хуулиар хамгаалагдсан.
+              &copy; {currentYear} <a href="https://chimeg.mn/">Chimeg.mn</a>.
+              Бүх эрх хуулиар хамгаалагдсан.
             </p>
             <p className="mb-4 text-center font-normal text-blue-gray-900 md:mb-0">
               POWERED BY Chimeg.mn
@@ -118,9 +117,8 @@ const Footer = () => {
           <div className="flex w-full flex-col items-center justify-center border-t border-green-800 py-4 md:flex-row md:justify-between">
             <div className="flex w-full md:justify-between justify-center mr-5">
               <p className="mb-4 text-center text-xs font-normal text-blue-gray-900 md:mb-0">
-                &copy; {currentYear}{" "}
-                <a href="http://202.131.237.185:3030/">Chimeg.mn</a>. Бүх эрх
-                хуулиар хамгаалагдсан.
+                &copy; {currentYear} <a href="https://chimeg.mn/">Chimeg.mn</a>.
+                Бүх эрх хуулиар хамгаалагдсан.
               </p>
             </div>
           </div>

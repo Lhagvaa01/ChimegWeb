@@ -16,7 +16,7 @@ const checkUrl = (url) => {
 export function PostApi(url, body) {
   if (checkUrl(url)) {
     return axios
-      .post(`http://${APIURL}/${url}`, body, {
+      .post(`https://${APIURL}/${url}`, body, {
         headers: {
           "Content-Type": "application/json",
           Authorization: authToken,
@@ -47,7 +47,7 @@ export function PostApi(url, body) {
 export function PostApi2(url, body) {
   if (checkUrl(url)) {
     return axios
-      .post(`http://${APIURL}/${url}`, body, {
+      .post(`https://${APIURL}/${url}`, body, {
         headers: {
           "Content-Type": "application/json",
           Authorization: authToken, // Ensure authToken is defined and contains the correct value
@@ -78,7 +78,7 @@ export function PostApi2(url, body) {
 export function PutApi(url, body) {
   if (checkUrl(url)) {
     return axios
-      .put(`http://${APIURL}/${url}`, body, {
+      .put(`https://${APIURL}/${url}`, body, {
         headers: {
           "Content-Type": "application/json",
           Authorization: authToken,
@@ -109,7 +109,7 @@ export function PutApi(url, body) {
 export function GetApi(url) {
   if (checkUrl(url)) {
     return axios
-      .get(`http://${APIURL}/${url}`, {
+      .get(`https://${APIURL}/${url}`, {
         headers: {
           Authorization: authToken,
         },
@@ -139,7 +139,7 @@ export function GetApi(url) {
 export function GetApi2(url) {
   if (checkUrl(url)) {
     return axios
-      .get(`http://${APIURL}/${url}`, {
+      .get(`https://${APIURL}/${url}`, {
         headers: {
           Authorization: authToken,
         },

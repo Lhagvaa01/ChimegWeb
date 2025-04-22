@@ -51,7 +51,7 @@ const ImgSwiper = () => {
     });
 
     axiosInstance
-      .get(`http://${APIURL}/get_SiteSliderImg/`)
+      .get(`https://${APIURL}/get_SiteSliderImg/`)
       .then((response) => {
         setdtlSlide(response.data.dtl);
       })

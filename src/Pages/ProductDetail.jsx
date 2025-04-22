@@ -864,6 +864,9 @@ const ProductDetail = ({ addProductToCart, dBproduct, dBgroup }) => {
                           </div>
                         )}
                       </div>
+                      <div>
+                        Бэлэн төлөлтөөр авбал 10% хямдралтай авах боломжтой
+                      </div>
 
                       {/* Savings */}
                       {product.discountPrice > 0 && (
@@ -912,7 +915,7 @@ const ProductDetail = ({ addProductToCart, dBproduct, dBgroup }) => {
                   <span className="inline-flex shrink-0 items-center rounded-full bg-teal-500 text-white px-6 py-2 text-3xl font-semibold mb-4">
                     0
                     <svg
-                      xmlns="http://www.w3.org/2000/svg"
+                      xmlns="https://www.w3.org/2000/svg"
                       viewBox="0 0 25.056 24"
                       className="h-6 w-6 ml-2 mr-2"
                     >
@@ -936,7 +939,7 @@ const ProductDetail = ({ addProductToCart, dBproduct, dBgroup }) => {
                     <div className="flex w-11 shrink-0 items-center space-x-1 font-semibold space-x-reverse">
                       <span className="text-sm font-semibold ">5</span>{" "}
                       <svg
-                        xmlns="http://www.w3.org/2000/svg"
+                        xmlns="https://www.w3.org/2000/svg"
                         viewBox="0 0 25.056 24"
                         className="h-2.5 w-2.5 ml-1.5 mr-1.5"
                       >
@@ -959,7 +962,7 @@ const ProductDetail = ({ addProductToCart, dBproduct, dBgroup }) => {
                     <div className="flex w-11 shrink-0 items-center space-x-1 font-semibold space-x-reverse">
                       <span className="text-sm font-semibold ">4</span>{" "}
                       <svg
-                        xmlns="http://www.w3.org/2000/svg"
+                        xmlns="https://www.w3.org/2000/svg"
                         viewBox="0 0 25.056 24"
                         className="h-2.5 w-2.5 ml-1.5 mr-1.5"
                       >
@@ -982,7 +985,7 @@ const ProductDetail = ({ addProductToCart, dBproduct, dBgroup }) => {
                     <div className="flex w-11 shrink-0 items-center space-x-1 font-semibold space-x-reverse">
                       <span className="text-sm font-semibold ">3</span>{" "}
                       <svg
-                        xmlns="http://www.w3.org/2000/svg"
+                        xmlns="https://www.w3.org/2000/svg"
                         viewBox="0 0 25.056 24"
                         className="h-2.5 w-2.5 ml-1.5 mr-1.5"
                       >
@@ -1005,7 +1008,7 @@ const ProductDetail = ({ addProductToCart, dBproduct, dBgroup }) => {
                     <div className="flex w-11 shrink-0 items-center space-x-1 font-semibold space-x-reverse">
                       <span className="text-sm font-semibold ">2</span>{" "}
                       <svg
-                        xmlns="http://www.w3.org/2000/svg"
+                        xmlns="https://www.w3.org/2000/svg"
                         viewBox="0 0 25.056 24"
                         className="h-2.5 w-2.5 ml-1.5 mr-1.5"
                       >
@@ -1028,7 +1031,7 @@ const ProductDetail = ({ addProductToCart, dBproduct, dBgroup }) => {
                     <div className="flex w-11 shrink-0 items-center space-x-1 font-semibold space-x-reverse">
                       <span className="text-sm font-semibold ">1</span>{" "}
                       <svg
-                        xmlns="http://www.w3.org/2000/svg"
+                        xmlns="https://www.w3.org/2000/svg"
                         viewBox="0 0 25.056 24"
                         className="h-2.5 w-2.5 ml-1.5 mr-1.5"
                       >

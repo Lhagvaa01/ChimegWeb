@@ -21,7 +21,7 @@ const CategoryDtl = ({ dBgroup }) => {
     });
 
     axiosInstance
-      .get("http://202.131.237.185:3030/get_GroupHDR/")
+      .get("https://api.chimeg.mn/get_GroupHDR/")
       .then((response) => {
         setPosts(response.data.dtl);
       })

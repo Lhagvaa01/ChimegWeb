@@ -2,11 +2,11 @@ const axios = require('axios');
 const fs = require('fs');
 
 // Define the API endpoint and authorization token
-const API_URL = 'http://202.131.237.185:3030/get_SiteProduct/0/';
+const API_URL = 'https://api.chimeg.mn/get_SiteProduct/0/';
 const TOKEN = 'token 218d68b6dfe280a288a396352f7d720a18a00997';
 
 // Base URL of your website
-const BASE_URL = 'http://202.131.237.185:3030';
+const BASE_URL = 'https://api.chimeg.mn';
 
 // Fetch product data from the API
 async function fetchProducts() {

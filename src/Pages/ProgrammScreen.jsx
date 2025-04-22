@@ -8,7 +8,7 @@ import Masu from "../images/Masu.jpg";
 import TailwindButton from "../components/customButton";
 
 const ProgrammScreen = () => {
-  let url = "http://202.131.237.185:3030/program-info/";
+  let url = "https://api.chimeg.mn/program-info/";
 
   const [programs, setPrograms] = useState([]);
 
@@ -41,7 +41,7 @@ const ProgrammScreen = () => {
                   className="h-full max-h-[340px] w-full md:h-[550px] border rounded-lg shadow-lg"
                   decoding="async"
                   data-nimg="1"
-                  src={`http://202.131.237.185:3030${program.image}`}
+                  src={`http://api.chimeg.mn${program.image}`}
                 />
                 <div className="font-semibold text-lg pt-5 px-5">
                   {program.name}

@@ -165,15 +165,15 @@ const Header = ({ dBgroup, dBDiscount }) => {
               <li className="text-lg text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer">
                 <a href="/About">Бидний тухай</a>
               </li>
-              <li className="text-lg text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer">
+              {/* <li className="text-lg text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer">
                 <a href="/ProgrammInfo">Программ</a>
-              </li>
+              </li> */}
               <li className="text-lg text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer">
                 <a href="/Contact">Холбоо барих</a>
               </li>
-              <li className="text-lg text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer">
+              {/* <li className="text-lg text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer">
                 <a href="/Download">Татах</a>
-              </li>
+              </li> */}
 
               <li className="text-lg text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer">
                 {/* <button
